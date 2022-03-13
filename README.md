@@ -4,6 +4,6 @@
 ->>>>>>>> study inventory and random topics for students
 
 -- Topic container actively building out 3/2022  
--- [[what]] --------------------------> [[who]]   ------------------> [[where]]  
-Hacking-------------------------------> Nicole Perlroth-------------> Lex # 266  
-major coding self study---------------> jwasham-------------------- > https://github.com/jwasham/coding-interview-university  
+-- [[what]] ------------------------------> [[who]]   ------------------> [[where]]  
+--  Hacking-------------------------------> Nicole Perlroth-------------> Lex # 266  
+--  major coding self study---------------> jwasham-------------------- > https://github.com/jwasham/coding-interview-university  
