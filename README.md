@@ -7,3 +7,5 @@
 -- [[what]] ------------------------------> [[who]]   ------------------> [[where]]  
 --  Hacking-------------------------------> Nicole Perlroth-------------> Lex # 266  
 --  major coding self study---------------> jwasham-------------------- > https://github.com/jwasham/coding-interview-university  
+--  Data Warehouse      Inmon (bus info priority)            (book) corporate information factory 2nd  
+--  data warehouse      Kinball (intelligence priority       (book) the data warehosue lifecycle toolkit  
