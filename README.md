@@ -1,18 +1,18 @@
--- 02-2022-Adjunct-Prof-Comp.-Science -- Helping youth expand skill and consciousness through computer science  
--- Thank you to Professor Santerre, Professor Kahn, David, Katie, and Debra for help making this materialize. Best Brian 
+-- 02-2022-Adjunct-Prof-Comp.-Science -- assisting with expanding skill consciousness through computer science  
+-- Thank you to Professor Santerre, Professor Kahn, DavidP, KatieP, and DebraK for all assistance. Best Brian 
 
 -- QUICK note on teaching: i believe in doing the work   
 -- as simple as reading the textbook when im not interested, listening when im not interested, and 'typing' when not interested  
--- the digitial revolution is all about typing so if you were not trained properly get an app and practice, asdf, jkl;, fvr, dce, sxw, azq  
--- i believe in focusing on the frame 
--- in construction it is alwasy the framers who dont mess around. framing is relentless work and good framers focus on framing  
--- frame one house, then the next  
--- 'devil is in the detail' as the ole adage goes 
+-- the digitial revolution is all about typing so if you were not trained properly I highly encourage it...asdf...jkl;
+-- i believe in focusing on the frame  
+-- in construction framers who dont mess around. framing is relentless work  
+-- the best framers focus full time on framing house after house  
+-- 'devil is in the detail' as the ole adage goes, and at this stage not looking for finish carpenters  
 -- the devil in detail can range from a 3 page paper to a masters thesis to a doctoral dissertation  
 -- lets work like framers, hammer out details, and leave nails and trash whereever  
--- can cleanup later (think spell checking)  
--- i know framers of every gender so bias of any sort here - only GRIT
--- so thanks for thinking about framing and getting gritty  
+-- cleanup later (think spell checking)  
+-- i know framers of every gender so bias of any sort here - only GRIT !  
+-- i believe anyone reading this can do the work by embracing grit  
 
 
 -- Elon Musk on MBA programs (doi 10.1108/JSM-08-2021-528)
