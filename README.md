@@ -3,7 +3,7 @@
 
 -- QUICK note on teaching: i believe in doing the work   
 -- as simple as reading the textbook when im not interested, listening when im not interested, and 'typing' when not interested  
--- the digitial revolution is all about typing so if you were not trained properly I highly encourage it...asdf...jkl;
+-- the digitial revolution is all about typing so if you were not trained properly I highly encourage it...asdf...jkl;  
 -- i believe in focusing on the frame  
 -- in construction framers who dont mess around. framing is relentless work  
 -- the best framers focus full time on framing house after house  
