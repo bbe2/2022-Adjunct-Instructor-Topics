@@ -1,18 +1,7 @@
 -- 02-2022-Adjunct-Prof-Comp.-Science -- assisting with expanding skill consciousness through computer science  
 -- Thank you to Professor Santerre, Professor Kahn, DavidP, KatieP, and DebraK for all assistance. Best Brian 
 
--- QUICK note on teaching: i believe in doing the work   
--- as simple as reading the textbook when not interested, listening when not interested, and 'typing'  
--- the digitial revolution is all about typing so if you were not trained properly I highly encourage it...asdf...jkl;  
--- i believe in focusing on the frame  
--- in construction framers who dont mess around. framing is relentless work  
--- 'devil is in the detail' as the ole adage goes, and at this stage not looking for finish carpenters  
--- the devil in detail can range from a 3 page paper to a masters thesis to a doctoral dissertation  
--- lets work like framers, hammer out details, and leave nails and trash wherever  
--- cleanup later (think spell checking)  
--- i know framers of every gender so will only find GRIT !  
 
--- i believe anyone can advance by embracing ============== > grit  
 
 -- Elon Musk on MBA programs (doi 10.1108/JSM-08-2021-528)
 --- "...although MBA graduates excel at creating PowerPoint presentations, they fail to understand "how things work"  
