@@ -5,8 +5,7 @@
 
 -- Elon Musk on MBA programs (doi 10.1108/JSM-08-2021-528)
 --- "...although MBA graduates excel at creating PowerPoint presentations, they fail to understand "how things work"  
----"...the MBA-ization of America is producing graduate bus students who are adept understanding company finanicials  
---                     but lack knowledge on how to improve an organiztion's product or service offering"
+---"...the MBA-ization of America is producing graduate bus students who are adept understanding company finanicials but lack knowledge on how to improve an organiztion's product or service offering"  
 
 ->>>>>>>> study inventory and random topics for students
 
@@ -24,3 +23,10 @@
 
 - AWS Lightsail (great winter deal - 3 months free) Build applications and websites fast with low-cost, pre-configured cloud resources
 - https://aws.amazon.com/lightsail/?sc_icampaign=pac_lightsail_root&sc_ichannel=ha&sc_icontent=awssm-1111&sc_iplace=signin&trk=ha_awssm-1111
+
+- R Langugage References  
+- (graphing) The Grammar of Graphics - LeLand Wilkinson  
+
+- Python References  
+
+
